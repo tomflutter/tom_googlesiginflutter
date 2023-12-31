@@ -44,20 +44,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCGznEkPFdLYhIhhml5x2qLomqsi5yGhdo',
-    appId: '1:219937203614:android:395cd7a5f23783cc3d228f',
-    messagingSenderId: '219937203614',
-    projectId: 'ujicoba-d0f2f',
-    authDomain: 'ujicoba-d0f2f.firebaseapp.com',
-    storageBucket: 'ujicoba-d0f2f.appspot.com',
+    apiKey: '//',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCGznEkPFdLYhIhhml5x2qLomqsi5yGhdo',
-    appId: '1:219937203614:android:395cd7a5f23783cc3d228f',
-    messagingSenderId: '219937203614',
-    projectId: 'ujicoba-d0f2f',
-    storageBucket: 'ujicoba-d0f2f.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
